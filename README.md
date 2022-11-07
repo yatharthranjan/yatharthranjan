@@ -40,6 +40,42 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 📊 **I spent my time on:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-563%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 407 Contributions in the Year 2022
+ > 
+> 📦 142.5 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 34 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I Mostly Code in Java** 
+
+```text
+Java                     9 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
+Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+HCL                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/yatharthranjan/yatharthranjan/main/charts/bar_graph.png) 
+
+
+ Last Updated on 07/11/2022 15:42:45 UTC
 <!--END_SECTION:waka-->
 
 <h2>Latest Tweets</h2>
