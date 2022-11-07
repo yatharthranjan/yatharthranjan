@@ -14,4 +14,4 @@ jobs:
       - name: Pull in medium, stackoverflow posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@yatharthranjan,https://stackoverflow.com/feeds/user/8175739"
+          feed_list: "https://medium.com/feed/@yatharthranjan,https://stackoverflow.com/feeds/user/8175739,https://kclpure.kcl.ac.uk/portal/en/publications/search.rss?showMeetingAndPosterAbstracts=true&search=Yatharth%20Ranjan&field=all"
