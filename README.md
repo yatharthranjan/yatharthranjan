@@ -52,24 +52,12 @@ I primarily work in the backend stack and like solving complex challenges and tr
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 31 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
-**I Mostly Code in Java** 
 
-```text
-Java                     9 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Kotlin                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-HCL                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-
- Last Updated on 07/11/2022 20:20:53 UTC
+ Last Updated on 07/11/2022 22:04:22 UTC
 <!--END_SECTION:waka-->
 
 
