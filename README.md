@@ -73,5 +73,5 @@ HCL                      2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-| <p><a href="https://twitter.com/ranjan_yatharth"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=ranjan_yatharth&amp;layout=wide" alt="github-readme-twitter"></a></p> | <p><img src="https://github-readme-stats.vercel.app/api?username=yatharthranjan&amp;show_icons=true" alt="GitHub Stats"></p> |
+| <p><a href="https://twitter.com/ranjan_yatharth"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=ranjan_yatharth&amp;layout=wide" alt="github-readme-twitter"></a></p> | <p><img src="https://github-readme-stats.vercel.app/api?username=yatharthranjan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" alt="GitHub Stats"></p> |
 | --------------- | --------------- |
