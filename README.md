@@ -30,7 +30,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 - 🤔 I’m looking for help with data science.
 - 💬 Ask me about backend development and RADAR-Base platform
 - 😄 Pronouns: he/his/him
-- 📙 I'm currently reading The Pragmatic Programmer and Research Papers for my Thesis
+- 📙 I'm currently reading The Pragmatic Programmer, Brief Answers to the Big Questions and Research Papers for my Thesis
 - 🎮 I'm currently playing Elden Ring, Dying Light 2, Dusk, and Haydes
 - ⚡ Fun facts:
   -   I am a part-time PhD student in biostatistics and health informatics. 
