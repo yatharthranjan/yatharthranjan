@@ -38,7 +38,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
   -   I am an enthusiastic pc gamer, just exploring my new [Steam Deck](https://www.steamdeck.com/en/) 🎮 these days.
   -   I like exploring nature 🏞 while cycling 🚴, running 🏃‍♂️ or walking 🚶‍♂️.
 
-📊 ** In the past week, I spent my time on:**
+📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
