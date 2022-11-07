@@ -72,8 +72,6 @@ HCL                      2 repos             █░░░░░░░░░░�
  Last Updated on 07/11/2022 16:24:04 UTC
 <!--END_SECTION:waka-->
 
-<h2>Latest Tweets</h2>
-<p><a href="https://twitter.com/ranjan_yatharth"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=ranjan_yatharth&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=yatharthranjan&amp;show_icons=true" alt="GitHub Stats"></p>
+| <p><a href="https://twitter.com/ranjan_yatharth"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=ranjan_yatharth&amp;layout=wide" alt="github-readme-twitter"></a></p> | <p><img src="https://github-readme-stats.vercel.app/api?username=yatharthranjan&amp;show_icons=true" alt="GitHub Stats"></p> |
+| --------------- | --------------- |
