@@ -35,7 +35,8 @@ I primarily work in the backend stack and like solving complex challenges and tr
 - ⚡ Fun facts:
   -   I am a part-time PhD student in biostatistics and health informatics. 
   -   I love tinkering with computer software and hardware (PC builder here! And love the Raspberry Pis -- checkout [RADAR-IoT](https://github.com/RADAR-base/RADAR-IoT))
-  -    I am an enthusiastic pc gamer, just exploring my new [Steam Deck](https://www.steamdeck.com/en/) 🎮 these days.
+  -   I am an enthusiastic pc gamer, just exploring my new [Steam Deck](https://www.steamdeck.com/en/) 🎮 these days.
+  -   I like exploring nature 🏞 while cycling 🚴, running 🏃‍♂️ or walking 🚶‍♂️.
 
 📊 **I spent my time on:**
 <!--START_SECTION:waka-->
