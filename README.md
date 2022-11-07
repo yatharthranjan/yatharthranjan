@@ -65,3 +65,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 |-----|-----|
 | <p><a href="https://twitter.com/ranjan_yatharth"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=ranjan_yatharth&amp;layout=wide" alt="github-readme-twitter"></a></p> | <p><img src="https://github-readme-stats.vercel.app/api?username=yatharthranjan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" alt="GitHub Stats"></p> |
 | <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthranjan&text_color=daf7dc&bg_color=151515&hide=Jupyter%20Notebook,html,css,dart,HCL&layout=compact" alt="github-readme-top-langs"></p> | <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yatharthranjan&theme=dark" alt="github-readme-streak"></p> |
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
