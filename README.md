@@ -32,19 +32,9 @@ I primarily work in the backend stack and like solving complex challenges and tr
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I am a part-time PhD student in biostatistics and health informatics
 
-<!--
-📊 **this week i spent my time on:**
-
-```text
-TypeScript   20 hrs 19 mins  ██████████████████████▓░░   90.45 %
-SCSS         42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-JavaScript   34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-JSON         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-```
-
--->
+📊 **I spent my time on:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/ranjan_yatharth"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=ranjan_yatharth&amp;layout=wide" alt="github-readme-twitter"></a></p>
