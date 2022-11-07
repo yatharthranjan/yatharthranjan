@@ -30,7 +30,12 @@ I primarily work in the backend stack and like solving complex challenges and tr
 - 🤔 I’m looking for help with data science.
 - 💬 Ask me about backend development and RADAR-Base platform
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I am a part-time PhD student in biostatistics and health informatics
+- 📙 I'm currently reading The Pragmatic Programmer and Research Papers for my Thesis
+- 🎮 I'm currently playing Elden Ring, Dying Light 2, Dusk, and Haydes
+- ⚡ Fun facts:
+  -   I am a part-time PhD student in biostatistics and health informatics. 
+  -   I love tinkering with computer software and hardware (PC builder here! And love the Raspberry Pis -- checkout [RADAR-IoT](https://github.com/RADAR-base/RADAR-IoT))
+  -    I am an enthusiastic pc gamer, just exploring my new [Steam Deck](https://www.steamdeck.com/en/) 🎮 these days.
 
 📊 **I spent my time on:**
 <!--START_SECTION:waka-->
