@@ -61,6 +61,9 @@ I primarily work in the backend stack and like solving complex challenges and tr
  Last Updated on 07/11/2022 22:20:01 UTC
 <!--END_SECTION:waka-->
 
+<a href="https://stackoverflow.com/users/8175739/yatharth-ranjan">
+  <img align="left" alt="Yatharth's Stackoverflow" src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/8175739" />
+</a>
 
 | | |
 |-----|-----|
