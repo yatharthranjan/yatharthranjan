@@ -66,7 +66,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 | <p><a href="https://twitter.com/ranjan_yatharth"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=ranjan_yatharth&amp;layout=wide" alt="github-readme-twitter"></a></p> | <p><img src="https://github-readme-stats.vercel.app/api?username=yatharthranjan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" alt="GitHub Stats"></p> |
 | <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatharthranjan&text_color=daf7dc&bg_color=151515&hide=Jupyter%20Notebook,html,css,dart,HCL&layout=compact" alt="github-readme-top-langs"></p> | <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=yatharthranjan&theme=dark" alt="github-readme-streak"></p> |
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Finding top correlation pairs from a large number of variables in Pandas](https://medium.com/@yatharthranjan/finding-top-correlation-pairs-from-a-large-number-of-variables-in-pandas-f530be53e82a?source=rss-328c0f15e1a2------2)
 - [Answer by Yatharth Ranjan for Using OneToMany relation in Spring Boot and PostgreSQL](https://stackoverflow.com/questions/67848967/using-onetomany-relation-in-spring-boot-and-postgresql/67849101#67849101)
