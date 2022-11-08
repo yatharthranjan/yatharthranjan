@@ -41,7 +41,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-563%20Thousand%20lines%20of%20code-blue)
 
@@ -49,7 +49,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 🏆 420 Contributions in the Year 2022
  > 
-> 📦 142.5 kB Used in GitHub's Storage 
+> 📦 142.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -57,6 +57,46 @@ I primarily work in the backend stack and like solving complex challenges and tr
  > 
 > 🔑 2 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.17% 
+🌆 Daytime    714 commits    ████████████████░░░░░░░░░   66.11% 
+🌃 Evening    202 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.7% 
+🌙 Night      11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       248 commits    █████░░░░░░░░░░░░░░░░░░░░   22.96% 
+Tuesday      210 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.44% 
+Wednesday    196 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
+Thursday     254 commits    ██████░░░░░░░░░░░░░░░░░░░   23.52% 
+Friday       150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Saturday     8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74% 
+Sunday       14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+Kotlin                   1 hr 35 mins        █████████████████░░░░░░░░   70.46% 
+YAML                     38 mins             ███████░░░░░░░░░░░░░░░░░░   28.53% 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+
+🔥 Editors: 
+IntelliJ                 2 hrs 14 mins       █████████████████████████   99.76% 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
+
+```
+
 
 <!--END_SECTION:waka-->
 
