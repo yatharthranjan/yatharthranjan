@@ -49,7 +49,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 🏆 19 Contributions in the Year 2023
  > 
-> 📦 161.6 kB Used in GitHub's Storage 
+> 📦 161.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
