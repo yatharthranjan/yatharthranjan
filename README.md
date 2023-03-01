@@ -41,7 +41,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2041%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-920.6%20thousand%20lines%20of%20code-blue)
 
@@ -49,7 +49,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 📦 174.7 kB Used in GitHub's Storage 
  > 
-> 🏆 84 Contributions in the Year 2023
+> 🏆 85 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
