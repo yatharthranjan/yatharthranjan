@@ -108,9 +108,9 @@ IntelliJ                 41 mins             ████████░░░�
 
 ### Publications and Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [The usability of daytime and night-time heart rate dynamics as digital biomarkers of depression severity](https://kclpure.kcl.ac.uk/portal/en/publications/the-usability-of-daytime-and-nighttime-heart-rate-dynamics-as-digital-biomarkers-of-depression-severity(06acfd90-de25-4416-90d0-b259ffff67ec).html)
-- [Long-term participant retention and engagement patterns in an app and wearable-based multinational remote digital depression study](https://kclpure.kcl.ac.uk/portal/en/publications/longterm-participant-retention-and-engagement-patterns-in-an-app-and-wearablebased-multinational-remote-digital-depression-study(39c230dc-1165-422c-bba9-361c2c67d033).html)
 - [Answer by Yatharth Ranjan for Drop the first few hours timeseries data in pandas without hard coding](https://stackoverflow.com/questions/75402006/drop-the-first-few-hours-timeseries-data-in-pandas-without-hard-coding/75402096#75402096)
-- [The Feasibility of Implementing Remote Measurement Technologies in Psychological Treatment for Depression: Mixed Methods Study on Engagement](https://kclpure.kcl.ac.uk/portal/en/publications/the-feasibility-of-implementing-remote-measurement-technologies-in-psychological-treatment-for-depression(f429d803-659f-4728-ba5d-4ed82302afb5).html)
-- [Biopsychosocial Response to the COVID-19 Lockdown in People with Major Depressive Disorder and Multiple Sclerosis](https://kclpure.kcl.ac.uk/portal/en/publications/biopsychosocial-response-to-the-covid19-lockdown-in-people-with-major-depressive-disorder-and-multiple-sclerosis(9418199e-81e2-40c1-ad7d-aba05a7af0d5).html)
+- [Finding top correlation pairs from a large number of variables in Pandas](https://medium.com/@yatharthranjan/finding-top-correlation-pairs-from-a-large-number-of-variables-in-pandas-f530be53e82a?source=rss-328c0f15e1a2------2)
+- [Answer by Yatharth Ranjan for Using OneToMany relation in Spring Boot and PostgreSQL](https://stackoverflow.com/questions/67848967/using-onetomany-relation-in-spring-boot-and-postgresql/67849101#67849101)
+- [Answer by Yatharth Ranjan for &quot;slice indices must be integers&quot; error when splitting a data array](https://stackoverflow.com/questions/67845711/slice-indices-must-be-integers-error-when-splitting-a-data-array/67845726#67845726)
+- [Answer by Yatharth Ranjan for to_datetime Unrecognized value type: &lt;class &#39;str&#39;&gt;](https://stackoverflow.com/questions/67845678/to-datetime-unrecognized-value-type-class-str/67845709#67845709)
 <!-- BLOG-POST-LIST:END -->
