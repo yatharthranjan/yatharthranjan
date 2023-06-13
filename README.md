@@ -43,13 +43,13 @@ I primarily work in the backend stack and like solving complex challenges and tr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%201%20min-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 176.0 kB Used in GitHub's Storage 
+> 📦 174.9 kB Used in GitHub's Storage 
  > 
-> 🏆 209 Contributions in the Year 2023
+> 🏆 210 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -60,7 +60,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1923 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+🌞 Morning                1924 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
 🌆 Daytime                14989 commits       ██████████████████░░░░░░░   72.13 % 
 🌃 Evening                3587 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
 🌙 Night                  281 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
@@ -69,7 +69,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 ```text
 Monday                   4341 commits        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Tuesday                  4425 commits        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+Tuesday                  4426 commits        █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
 Wednesday                3981 commits        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
 Thursday                 4252 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
 Friday                   3687 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
