@@ -84,11 +84,10 @@ Sunday                   46 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Python                   0 secs              ███████████████░░░░░░░░░░   59.11 % 
-Assembly                 0 secs              ██████████░░░░░░░░░░░░░░░   40.89 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
