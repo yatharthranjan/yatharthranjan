@@ -106,8 +106,8 @@ VS Code                  31 mins             ███████████�
 ### Publications and Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Answer by Yatharth Ranjan for Drop the first few hours timeseries data in pandas without hard coding](https://stackoverflow.com/questions/75402006/drop-the-first-few-hours-timeseries-data-in-pandas-without-hard-coding/75402096#75402096)
-- [Finding top correlation pairs from a large number of variables in Pandas](https://medium.com/@yatharthranjan/finding-top-correlation-pairs-from-a-large-number-of-variables-in-pandas-f530be53e82a?source=rss-328c0f15e1a2------2)
 - [Answer by Yatharth Ranjan for Using OneToMany relation in Spring Boot and PostgreSQL](https://stackoverflow.com/questions/67848967/using-onetomany-relation-in-spring-boot-and-postgresql/67849101#67849101)
 - [Answer by Yatharth Ranjan for &quot;slice indices must be integers&quot; error when splitting a data array](https://stackoverflow.com/questions/67845711/slice-indices-must-be-integers-error-when-splitting-a-data-array/67845726#67845726)
 - [Answer by Yatharth Ranjan for to_datetime Unrecognized value type: &lt;class &#39;str&#39;&gt;](https://stackoverflow.com/questions/67845678/to-datetime-unrecognized-value-type-class-str/67845709#67845709)
+- [Answer by Yatharth Ranjan for Docker exec command to create a file](https://stackoverflow.com/questions/67845540/docker-exec-command-to-create-a-file/67845574#67845574)
 <!-- BLOG-POST-LIST:END -->
