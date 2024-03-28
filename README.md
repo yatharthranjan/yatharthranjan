@@ -49,8 +49,6 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 📦 185.8 kB Used in GitHub's Storage 
  > 
-> 🏆 64 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
