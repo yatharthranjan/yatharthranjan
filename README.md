@@ -47,7 +47,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 **🐱 My GitHub Data** 
 
-> 📦 185.8 kB Used in GitHub's Storage 
+> 📦 185.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
