@@ -41,6 +41,8 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%207%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -53,6 +55,41 @@ I primarily work in the backend stack and like solving complex challenges and tr
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2110 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+🌆 Daytime                16428 commits       ██████████████████░░░░░░░   71.45 % 
+🌃 Evening                4089 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+🌙 Night                  366 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   4617 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Tuesday                  4953 commits        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Wednesday                4382 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Thursday                 4702 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Friday                   4241 commits        █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+Saturday                 51 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Sunday                   47 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+Python                   6 hrs 21 mins       █████████████████████████   99.51 % 
+Java                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 21 mins       █████████████████████████   99.51 % 
+Intellijidea             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+```
+
 
 <!--END_SECTION:waka-->
 
