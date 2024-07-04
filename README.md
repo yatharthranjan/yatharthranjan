@@ -41,7 +41,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2043%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
 
@@ -49,7 +49,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 📦 195.4 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 161 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -84,15 +84,15 @@ Sunday                   47 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     1 hr 11 mins        █████████████░░░░░░░░░░░░   53.11 % 
-Python                   34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-Docker                   12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Shell Script             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+YAML                     2 hrs 16 mins       ███████████████░░░░░░░░░░   61.92 % 
+Python                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Docker                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Kotlin                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-VS Code                  1 hr 21 mins        ███████████████░░░░░░░░░░   60.77 % 
-IntelliJ IDEA            52 mins             ██████████░░░░░░░░░░░░░░░   39.23 % 
+IntelliJ IDEA            2 hrs 18 mins       ████████████████░░░░░░░░░   62.91 % 
+VS Code                  1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   37.09 % 
 ```
 
 
