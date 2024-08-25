@@ -41,7 +41,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
 
@@ -84,14 +84,14 @@ Sunday                   55 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Kotlin                   6 hrs 22 mins       ██████████████████████░░░   86.97 % 
-YAML                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+Kotlin                   6 hrs 22 mins       ██████████████████████░░░   86.56 % 
+YAML                     57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-yarn.lock                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+yarn.lock                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs 19 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            7 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 
