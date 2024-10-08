@@ -49,6 +49,8 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 📦 195.6 kB Used in GitHub's Storage 
  > 
+> 🏆 302 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 34 Public Repositories 
@@ -82,13 +84,10 @@ Sunday                   55 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     1 hr 4 mins         ██████████████████░░░░░░░   73.20 % 
-Markdown                 23 mins             ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 22 mins        ███████████████████████░░   93.91 % 
-IntelliJ IDEA            5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+No Activity Tracked This Week
 ```
 
 
