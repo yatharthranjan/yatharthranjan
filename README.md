@@ -41,6 +41,8 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%206%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -55,6 +57,40 @@ I primarily work in the backend stack and like solving complex challenges and tr
  > 
 > 🔑 2 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2760 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+🌆 Daytime                14879 commits       █████████████████░░░░░░░░   66.74 % 
+🌃 Evening                4243 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+🌙 Night                  411 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   4045 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Tuesday                  4933 commits        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+Wednesday                4156 commits        █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Thursday                 5003 commits        ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+Friday                   3977 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Saturday                 124 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Sunday                   55 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+YAML                     21 mins             ███████████████████████░░   92.39 % 
+Markdown                 1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+
+🔥 Editors: 
+VS Code                  23 mins             █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
