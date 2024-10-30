@@ -41,13 +41,15 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-237%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-238%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 195.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 320 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -59,7 +61,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 ```text
 🌞 Morning                2830 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-🌆 Daytime                15269 commits       █████████████████░░░░░░░░   66.89 % 
+🌆 Daytime                15270 commits       █████████████████░░░░░░░░   66.89 % 
 🌃 Evening                4311 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
 🌙 Night                  416 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
@@ -68,7 +70,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ```text
 Monday                   4137 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
 Tuesday                  5019 commits        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Wednesday                4267 commits        █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Wednesday                4268 commits        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
 Thursday                 5140 commits        ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
 Friday                   4076 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
 Saturday                 129 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
