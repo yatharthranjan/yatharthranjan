@@ -41,13 +41,15 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2049%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 195.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 352 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -82,13 +84,13 @@ Sunday                   58 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Bash                     5 hrs 19 mins       ███████████████████████░░   92.38 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Bash                     5 hrs 19 mins       ███████████████████░░░░░░   77.25 % 
+Python                   1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 
