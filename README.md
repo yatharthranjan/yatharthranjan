@@ -41,7 +41,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.1%20million%20lines%20of%20code-blue)
 
@@ -49,19 +49,19 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 📦 195.9 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 1 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
 🌞 Morning                3639 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-🌆 Daytime                24138 commits       ██████████████████░░░░░░░   71.23 % 
+🌆 Daytime                24139 commits       ██████████████████░░░░░░░   71.23 % 
 🌃 Evening                5643 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
 🌙 Night                  468 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 ```
@@ -69,9 +69,9 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 ```text
 Monday                   6726 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Tuesday                  7220 commits        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+Tuesday                  7220 commits        █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
 Wednesday                6436 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Thursday                 7251 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
+Thursday                 7252 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
 Friday                   6049 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 Saturday                 139 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 Sunday                   67 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
