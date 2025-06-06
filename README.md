@@ -49,6 +49,8 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 📦 196.1 kB Used in GitHub's Storage 
  > 
+> 🏆 51 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -82,10 +84,10 @@ Sunday                   72 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-SQL                      32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
