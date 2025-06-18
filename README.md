@@ -49,7 +49,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 📦 196.1 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 56 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -84,13 +84,10 @@ Sunday                   72 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-SQL                      13 mins             ███████████████████░░░░░░   77.66 % 
-YAML                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            13 mins             ███████████████████░░░░░░   77.66 % 
-VS Code                  3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+No Activity Tracked This Week
 ```
 
 
