@@ -49,7 +49,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 📦 196.1 kB Used in GitHub's Storage 
  > 
-> 🏆 59 Contributions in the Year 2025
+> 🏆 58 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
