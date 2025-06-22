@@ -47,7 +47,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 **🐱 My GitHub Data** 
 
-> 📦 196.1 kB Used in GitHub's Storage 
+> 📦 196.2 kB Used in GitHub's Storage 
  > 
 > 🏆 59 Contributions in the Year 2025
  > 
