@@ -60,18 +60,18 @@ I primarily work in the backend stack and like solving complex challenges and tr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3778 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-🌆 Daytime                21853 commits       █████████████████░░░░░░░░   69.82 % 
-🌃 Evening                5131 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+🌞 Morning                3779 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+🌆 Daytime                21857 commits       █████████████████░░░░░░░░   69.82 % 
+🌃 Evening                5132 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 🌙 Night                  537 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   5857 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Tuesday                  6538 commits        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Wednesday                5809 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Thursday                 7213 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Monday                   5858 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Tuesday                  6538 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Wednesday                5812 commits        █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Thursday                 7215 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
 Friday                   5723 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
 Saturday                 80 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 Sunday                   79 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
