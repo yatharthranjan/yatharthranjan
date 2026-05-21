@@ -41,7 +41,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-302%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.61%20million%20lines%20of%20code-blue?style=flat)
 
@@ -49,7 +49,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 > 📦 196.6 kB Used in GitHub's Storage 
  > 
-> 🏆 76 Contributions in the Year 2026
+> 🏆 89 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -84,15 +84,15 @@ Sunday                   79 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-Go                       2 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-JSON                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Other                    1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Markdown                 1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Markdown                 3 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+YAML                     2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Go                       2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+JSON                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Other                    1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 13 mins       ████████████████░░░░░░░░░   65.51 % 
-Claude Code              2 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   34.49 % 
+VS Code                  9 hrs 36 mins       ███████████████████░░░░░░   76.50 % 
+Claude Code              2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
 ```
 
 
