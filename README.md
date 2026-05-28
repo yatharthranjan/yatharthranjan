@@ -41,6 +41,8 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2051%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.59%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -55,6 +57,44 @@ I primarily work in the backend stack and like solving complex challenges and tr
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3815 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+🌆 Daytime                22003 commits       █████████████████░░░░░░░░   69.85 % 
+🌃 Evening                5142 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+🌙 Night                  540 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   5914 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Tuesday                  6575 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Wednesday                5846 commits        █████░░░░░░░░░░░░░░░░░░░░   18.56 % 
+Thursday                 7265 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Friday                   5747 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Saturday                 82 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Sunday                   71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+YAML                     6 hrs 17 mins       ██████████████░░░░░░░░░░░   54.09 % 
+Go                       2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+Other                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+SQL                      27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 54 mins       █████████████████████░░░░   85.27 % 
+Unknown Editor           1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+```
+
 
 <!--END_SECTION:waka-->
 
