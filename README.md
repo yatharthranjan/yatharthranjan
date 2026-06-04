@@ -43,7 +43,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2054%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.84%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.83%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,44 +57,6 @@ I primarily work in the backend stack and like solving complex challenges and tr
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3857 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-🌆 Daytime                22203 commits       █████████████████░░░░░░░░   69.91 % 
-🌃 Evening                5158 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-🌙 Night                  542 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   5978 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Tuesday                  6623 commits        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Wednesday                5891 commits        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-Thursday                 7324 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-Friday                   5791 commits        █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-Saturday                 82 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Sunday                   71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-Other                    47 mins             █████████░░░░░░░░░░░░░░░░   35.02 % 
-YAML                     43 mins             ████████░░░░░░░░░░░░░░░░░   32.39 % 
-Go                       22 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-Markdown                 18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-
-🔥 Editors: 
-VS Code                  2 hrs 13 mins       ████████████████████████░   94.13 % 
-Unknown Editor           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-```
-
 
 <!--END_SECTION:waka-->
 
