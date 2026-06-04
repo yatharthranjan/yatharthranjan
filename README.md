@@ -57,6 +57,43 @@ I primarily work in the backend stack and like solving complex challenges and tr
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3848 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+🌆 Daytime                22163 commits       █████████████████░░░░░░░░   69.92 % 
+🌃 Evening                5148 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+🌙 Night                  540 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   5967 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Tuesday                  6614 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Wednesday                5879 commits        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Thursday                 7309 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Friday                   5777 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Saturday                 82 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Sunday                   71 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+Other                    27 mins             ████████████░░░░░░░░░░░░░   49.04 % 
+Markdown                 18 mins             ████████░░░░░░░░░░░░░░░░░   33.64 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+
+🔥 Editors: 
+VS Code                  54 mins             ████████████████████████░   96.76 % 
+Claude Code              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+```
+
 
 <!--END_SECTION:waka-->
 
