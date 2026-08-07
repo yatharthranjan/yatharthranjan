@@ -41,10 +41,6 @@ I primarily work in the backend stack and like solving complex challenges and tr
 ### Stats for Nerds
 📊 **In the past week, I spent my time on:**
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-355%20hrs%2038%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2044%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-18.13%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -59,49 +55,6 @@ I primarily work in the backend stack and like solving complex challenges and tr
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                4337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-🌆 Daytime                24853 commits       █████████████████░░░░░░░░   69.75 % 
-🌃 Evening                5866 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-🌙 Night                  574 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   6706 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Tuesday                  7547 commits        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Wednesday                6721 commits        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Thursday                 8164 commits        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Friday                   6305 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Saturday                 101 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Sunday                   86 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-YAML                     1 hr 5 mins         ████████████████░░░░░░░░░   64.41 % 
-Java Properties          23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Java                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Kotlin                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-
-🔥 Editors: 
-VS Code                  1 hr 41 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
