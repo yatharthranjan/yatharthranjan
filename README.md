@@ -86,14 +86,11 @@ Sunday                   86 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     1 hr 10 mins        ████████████████░░░░░░░░░   65.86 % 
-Java Properties          23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Java                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Kotlin                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+YAML                     4 mins              ████████████████████████░   96.44 % 
+Java Properties          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
