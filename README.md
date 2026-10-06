@@ -45,7 +45,7 @@ I primarily work in the backend stack and like solving complex challenges and tr
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-64%20hrs%2047%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-21.00%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -62,19 +62,19 @@ I primarily work in the backend stack and like solving complex challenges and tr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                5114 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-🌆 Daytime                28590 commits       █████████████████░░░░░░░░   69.57 % 
-🌃 Evening                6754 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-🌙 Night                  635 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+🌞 Morning                5125 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+🌆 Daytime                28647 commits       █████████████████░░░░░░░░   69.59 % 
+🌃 Evening                6757 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+🌙 Night                  635 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   7822 commits        █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Tuesday                  8652 commits        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-Wednesday                7877 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Thursday                 9448 commits        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-Friday                   7075 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Monday                   7837 commits        █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Tuesday                  8667 commits        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Wednesday                7893 commits        █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Thursday                 9463 commits        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
+Friday                   7085 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
 Saturday                 124 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 Sunday                   95 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
@@ -86,34 +86,32 @@ Sunday                   95 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     1 hr 7 mins         ██████████████████████░░░   89.00 % 
-Git                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-HCL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+YAML                     1 hr 7 mins         ████████████████████████░   95.98 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         ██████████████████████░░░   89.00 % 
-Claude Code              8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+VS Code                  1 hr 7 mins         ████████████████████████░   95.98 % 
+Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (11.0%)
+⏱ AI Coding Time: 2 mins (4.02%)
 
 ✍️ 0 lines written by AI, 44 lines written by hand (0.0% AI-written)
 
-🔤 384,213 Input Tokens, 10,869 Output Tokens
+🔤 163,222 Input Tokens, 2,856 Output Tokens
 
-💵 $1.84 Estimated AI Cost This Week
+💵 $0.84 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 87 characters per prompt
+📝 Concise Prompter — average 117 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
