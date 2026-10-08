@@ -86,34 +86,16 @@ Sunday                   95 commits          ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-YAML                     1 hr 7 mins         ████████████████████████░   95.98 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+YAML                     48 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         ████████████████████████░   95.98 % 
-Claude Code              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+VS Code                  48 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (4.02%)
-
-✍️ 0 lines written by AI, 44 lines written by hand (0.0% AI-written)
-
-🔤 163,222 Input Tokens, 2,856 Output Tokens
-
-💵 $0.84 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 117 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
